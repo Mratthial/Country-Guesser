@@ -1,0 +1,3 @@
+After determining that the website I initially got the country names from was incomplete for my data, I proceeded to scrap this version and develop the 1.0 version.
+
+This was to show proof of concept that I learnt from the Zero to Mastery course section, as I wanted to apply my knowledge.
