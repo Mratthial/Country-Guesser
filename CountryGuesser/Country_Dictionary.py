@@ -1,3 +1,5 @@
+# Continent, Language, and Capital data sourced from Chat GPT when provided Country List Name
+
 countries_data = {
     'Afghanistan': {'continent': 'Asia', 'language': 'Pashto, Dari (Farsi)', 'capital': 'Kabul'},
     'Albania': {'continent': 'Europe', 'language': 'Albanian', 'capital': 'Tirana'},
